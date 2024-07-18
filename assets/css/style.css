@@ -1,0 +1,17 @@
+/*Header*/
+header {
+    background-color: black;
+    color: whitesmoke;
+}
+
+/*Main*/
+main {
+    background-color: whitesmoke;
+    color: black;
+}
+
+/*Footer*/
+footer {
+    background-color: rgb(105, 8, 8);
+    color: whitesmoke;
+}
