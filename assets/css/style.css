@@ -1,10 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Generic*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 /*Header*/
 header {
     background-color: black;
     color: whitesmoke;
 }
 
-/*Main*/
+/*main*/
 main {
     background-color: whitesmoke;
     color: black;
@@ -12,6 +25,7 @@ main {
 
 /*Footer*/
 footer {
+    margin-top: auto;
     background-color: rgb(105, 8, 8);
     color: whitesmoke;
 }
