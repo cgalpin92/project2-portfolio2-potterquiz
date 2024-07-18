@@ -23,6 +23,11 @@ main {
     color: black;
 }
 
+img {
+    height: 25%;
+    width: 40%;
+}
+
 /*Footer*/
 footer {
     margin-top: auto;
