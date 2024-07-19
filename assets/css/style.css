@@ -26,6 +26,19 @@ main {
 img {
     height: 25%;
     width: 40%;
+    display: flex;
+}
+
+button {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+.homePageContent {
+
+    text-align: center;
 }
 
 /*Footer*/
