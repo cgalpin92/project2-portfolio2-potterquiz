@@ -4,27 +4,27 @@ function harryQuiz(){
         {
             question: "Question 1",
             choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
-            correct: 0,
+            correct: 0
         },
         {
             question: "Question 2",
             choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
-            correct: 0,
+            correct: 0
         },
         {
             question: "Question 3",
             choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
-            correct: 0,
+            correct: 0
         },
         {
             question: "Question 4",
             choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
-            correct: 0,
+            correct: 0
         },
         {
             question: "Question 5",
             choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
-            correct: 0,
+            correct: 0
         },
         {
             question: "Question 6",
@@ -60,6 +60,10 @@ function harryQuiz(){
     harryQuizPage.innerHTML = harryHtmlStructure;
 };
 
-function ronQuiz()
+function ronQuiz(){
 
-function hermionQuiz()
+}
+
+function hermionQuiz(){
+    
+}
